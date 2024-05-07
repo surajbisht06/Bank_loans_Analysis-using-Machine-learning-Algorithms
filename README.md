@@ -24,7 +24,7 @@ customer data and predict whether a customer is likely to default on their loan.
 
 [Python Script (Code)](cyber_security.ipynb)
 
-[Ppt presentation](sql_prjct.pptx)
+
 
 ### Features 
 
